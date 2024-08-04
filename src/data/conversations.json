@@ -1,0 +1,31 @@
+[
+    {
+      "audioOne": [
+        {
+          "Text": "executive: how many days and which location.",
+          "keyword": "days, location",
+          "time": 2000,
+          "AIrecommender": "https://example.com/image1.jpg"
+        },
+        {
+          "Text": "user: it will be for 2 days and manali.",
+          "keyword": "2, manali",
+          "time": 5000
+        }
+      ]
+    },
+    {
+      "audioTwo": [
+        {
+          "Text": "executive: Welcome! How can I assist you today?",
+          "time": 1000
+        },
+        {
+          "Text": "user: I'm looking for a beach vacation package.",
+          "keyword": "beach, vacation",
+          "time": 4000,
+          "AIrecommender": "https://example.com/beach-package.jpg"
+        }
+      ]
+    }
+  ]
